@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/makves/static/js/main.5933d64b.js",
+    "index.html": "/makves/index.html",
+    "main.5933d64b.js.map": "/makves/static/js/main.5933d64b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5933d64b.js"
+  ]
+}
